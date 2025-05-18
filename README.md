@@ -58,4 +58,5 @@ Developed by: Dharshana A S RegisterNumber:212224220022
 
 
 **RESULTS**
+
  Thus,SISO Shift Register using verilog and validating their functionality using their functional tables is implemented.
